@@ -4,6 +4,8 @@
 
 # A simple landing page given to me to implement as an assessment.
 
+# I used vue.js and sass to create this landing page.
+
 ## Project setup
 
 ```
